@@ -1,6 +1,6 @@
 ## Hello. I'm Nilton Jhonas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-**Desenvolvedor Backend** com sólida experiência na criação de soluções escaláveis, seguras e de alta performance para aplicações empresariais. Atua no desenvolvimento e manutenção de APIs, integração de sistemas e otimização de processos, sempre seguindo boas práticas e padrões de código limpos. Possui conhecimento em arquiteturas modernas e tecnologias que garantem robustez e eficiência. Comprometido com a qualidade, segurança e a entrega de valor em cada projeto. Residente no Rio Grande do Norte, Brasil.
+**Desenvolvedor Backend** com experiência na criação de soluções escaláveis, seguras e de alta performance para aplicações empresariais. Atua no desenvolvimento e manutenção de APIs, integração de sistemas e otimização de processos, sempre seguindo boas práticas e padrões de código limpos. Possui conhecimento em arquiteturas modernas e tecnologias que garantem robustez e eficiência. Comprometido com a qualidade, segurança e a entrega de valor em cada projeto. Residente no Rio Grande do Norte, Brasil.
 </div>
 
 <h3 align="center">Connect with me!</h3>
