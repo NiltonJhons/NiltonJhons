@@ -3,18 +3,30 @@
 ---
 
 ### 🚀 Languages and Tools:
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=rest&logoColor=white" height="28" alt="REST API"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
+  <a href="https://github.com/NiltonJhons" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" height="50" alt="Java" />
+  </a>
+  <a href="https://github.com/NiltonJhons" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50" alt="Python" />
+  </a>
+  <a href="https://github.com/NiltonJhons" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" height="50" alt="Git" />
+  </a>
+  <a href="https://github.com/NiltonJhons" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" alt="GitHub" />
+  </a>
+  <a href="https://github.com/NiltonJhons" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="50" alt="MySQL" />
+  </a>
+  <a href="https://github.com/NiltonJhons" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="50" alt="VS Code" />
+  </a>
+  <a href="https://github.com/NiltonJhons" target="_blank">
+    <img src="https://skillicons.dev/icons?i=intellij&theme=dark" height="50" alt="IntelliJ" />
+  </a>
 </div>
+
 
 ---
 
