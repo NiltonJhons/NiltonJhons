@@ -47,7 +47,11 @@
 <div align="center">
   <a href="https://github.com/NiltonJhons" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NiltonJhons&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas GitHub"/>
-    </div>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/NiltonJhons" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiltonJhons&layout=compact&langs_count=10&theme=tokyonight" alt="Linguagens Mais Usadas"/>
   </a>
 </div>
