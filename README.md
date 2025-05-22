@@ -44,7 +44,6 @@
 </div>
 
 #
-<br>
 
 <h3 align="center">🚀 Github Stats</h3>
 <div align="center">
