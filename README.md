@@ -36,6 +36,9 @@
     <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="50" alt="VS Code" />
   </a>
   <a href="https://github.com/NiltonJhons" target="_blank">
+    <img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="50" alt="Eclipse" />
+  </a>
+  <a href="https://github.com/NiltonJhons" target="_blank">
     <img src="https://skillicons.dev/icons?i=idea&theme=dark" height="50" alt="IntelliJ" />
   </a>
   <a href="https://github.com/NiltonJhons" target="_blank">
