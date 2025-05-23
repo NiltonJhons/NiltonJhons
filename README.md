@@ -18,10 +18,10 @@
 <h3 align="center">🛠️ Languages and Tools</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
   <a href="https://github.com/NiltonJhons" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java&theme=dark" height="50" alt="Java" />
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50" alt="Python" />
   </a>
   <a href="https://github.com/NiltonJhons" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" height="50" alt="Java" />
   </a>
   <a href="https://github.com/NiltonJhons" target="_blank">
     <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="50" alt="SpringBoot" />
