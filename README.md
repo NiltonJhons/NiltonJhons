@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/nilton-jhonas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/5584981814925?text=Ol%C3%A1%2C%20estou%20interessado%20no%20seu%20perfil!" target="_blank">
+  <a href="https://wa.me/5584981814925?text=Ol%C3%A1%2C%20seu%20perfil%20chamou%20minha%20aten%C3%A7%C3%A3o%20e%20gostaria%20de%20conversar%20mais%20a%20respeito." target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
