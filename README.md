@@ -61,7 +61,7 @@
   </a>
 </div>
 
-<br/>
+
 
 <div align="center">
   <a href="https://github.com/NiltonJhons" target="_blank">
@@ -69,7 +69,7 @@
   </a>
 </div>
 
-<br/>
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NiltonJhons&theme=tokyonight" alt="Contribuições Consecutivas"/>
