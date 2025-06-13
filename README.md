@@ -56,9 +56,7 @@
 
 <h3 align="center">🚀 Github Stats</h3>
 <div align="center">
-  <a href="https://github.com/NiltonJhons" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NiltonJhons&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas GitHub"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=NiltonJhons&show_icons=true&theme=tokyonight" alt="NiltonJhons GitHub stats"/>
 </div>
 
 <br/>
