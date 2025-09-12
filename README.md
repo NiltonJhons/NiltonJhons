@@ -1,6 +1,12 @@
-## Hello. I'm Nilton Jhonas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+#
 
-**Desenvolvedor Backend** com experiência na criação de soluções escaláveis, seguras e de alta performance para aplicações empresariais. Atua no desenvolvimento e manutenção de APIs, integração de sistemas e otimização de processos, sempre seguindo boas práticas e padrões de código limpos. Possui conhecimento em arquiteturas modernas e tecnologias que garantem robustez e eficiência. Comprometido com a qualidade, segurança e a entrega de valor em cada projeto. Residente no Rio Grande do Norte, Brasil.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=FFFFFF&center=true&width=435&lines=Hello%2C+I'm+Nilton+Jhonas+!;Welcome+to+my+Github+page+%3A)" alt="Typing SVG" width="50%" />
+</a>
+  <br>
+
+**Desenvolvedor Backend** com sólida experiência no desenvolvimento de soluções escaláveis, seguras e de alto desempenho voltadas para aplicações corporativas. Especialista na concepção, implementação e manutenção de APIs, integração de sistemas e otimização de processos críticos, sempre alinhado às melhores práticas de engenharia de software e padrões de código limpo. Possui domínio de arquiteturas modernas e tecnologias que asseguram robustez, eficiência e adaptabilidade das aplicações em diferentes contextos de negócio. Atua com foco em qualidade, segurança e confiabilidade, buscando constantemente a melhoria contínua e a entrega de valor sustentável em cada projeto. Além disso, demonstra capacidade de colaboração em equipes multidisciplinares, visão estratégica para antecipar desafios e comprometimento em alinhar soluções tecnológicas aos objetivos organizacionais. Residente no Rio Grande do Norte, Brasil.
 </div>
 
 <h3 align="center">Connect with me!</h3>
