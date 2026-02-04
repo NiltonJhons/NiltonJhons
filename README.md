@@ -6,7 +6,9 @@
 </a>
   <br>
 
-**Desenvolvedor Backend** com sólida experiência no desenvolvimento de soluções escaláveis, seguras e de alto desempenho voltadas para aplicações corporativas. Especialista na concepção, implementação e manutenção de APIs, integração de sistemas e otimização de processos críticos, sempre alinhado às melhores práticas de engenharia de software e padrões de código limpo. Possui domínio de arquiteturas modernas e tecnologias que asseguram robustez, eficiência e adaptabilidade das aplicações em diferentes contextos de negócio. Atua com foco em qualidade, segurança e confiabilidade, buscando constantemente a melhoria contínua e a entrega de valor sustentável em cada projeto. Além disso, demonstra capacidade de colaboração em equipes multidisciplinares, visão estratégica para antecipar desafios e comprometimento em alinhar soluções tecnológicas aos objetivos organizacionais. Residente no Rio Grande do Norte, Brasil.
+**Desenvolvedor Full-Stack** com experiência prática no desenvolvimento, manutenção e evolução de aplicações corporativas em ambientes complexos. Atua com foco em soluções escaláveis, organizadas e alinhadas a padrões de engenharia de software. Possui prática na construção e consumo de APIs, integração entre sistemas, tratamento de regras de negócio, manutenção de sistemas legados e evolução contínua de código em produção. Trabalha com atenção à qualidade, versionamento, testes, padronização e boas práticas, garantindo manutenibilidade e estabilidade das aplicações. Tem facilidade para compreender arquiteturas existentes, identificar pontos de melhoria e propor soluções técnicas consistentes. Totalmente comprometido com evolução profissional.
+
+📍- Rio Grande do Norte, Brasil
 </div>
 
 <h3 align="center">Connect with me!</h3>
@@ -20,63 +22,6 @@
   <a href="https://wa.me/5584981814925?text=Ol%C3%A1%2C%20me%20interessei%20pelo%20o%20seu%20perfil.%20Podemos%20conversar%3F" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-</div>
-
-#
-
-<h3 align="center">🛠️ Languages and Tools</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 10px;">
-  <a href="https://github.com/NiltonJhons" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50" alt="Python" />
-  </a>
-  <a href="https://github.com/NiltonJhons" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java&theme=dark" height="50" alt="Java" />
-  </a>
-  <a href="https://github.com/NiltonJhons" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="50" alt="SpringBoot" />
-  </a>
-  <a href="https://github.com/NiltonJhons" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git&theme=dark" height="50" alt="Git" />
-  </a>
-  <a href="https://github.com/NiltonJhons" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" alt="GitHub" />
-  </a>
-  <a href="https://github.com/NiltonJhons" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="50" alt="MySQL" />
-  </a>
-  <a href="https://github.com/NiltonJhons" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="50" alt="VS Code" />
-  </a>
-  <a href="https://github.com/NiltonJhons" target="_blank">
-    <img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="50" alt="Eclipse" />
-  </a>
-  <a href="https://github.com/NiltonJhons" target="_blank">
-    <img src="https://skillicons.dev/icons?i=idea&theme=dark" height="50" alt="IntelliJ" />
-  </a>
-  <a href="https://github.com/NiltonJhons" target="_blank">
-    <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" height="50" alt="Obsidian" />
-  </a>
-</div>
-
-#
-
-<h3 align="center">🚀 Github Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiltonJhons&show_icons=true&theme=tokyonight" alt="NiltonJhons GitHub stats"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/NiltonJhons" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiltonJhons&layout=compact&langs_count=10&theme=tokyonight" alt="Linguagens Mais Usadas"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NiltonJhons&theme=tokyonight" alt="Contribuições Consecutivas"/>
 </div>
 
 #
